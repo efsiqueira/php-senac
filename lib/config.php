@@ -3,6 +3,8 @@
 
 define("URL_BASE", "http://localhost/sistema_tcs/");
 
+define("KEY", "xoa13123j@jsdkns0fsnjnjfhq8riWjr81wndjsh891hrwa");
+
 // Definir as variáveis de configuração do Banco Mysql
 define("DB_HOST", "localhost");
 define("DB_USER", "root");
